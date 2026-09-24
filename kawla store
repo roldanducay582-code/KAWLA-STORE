@@ -1,0 +1,7 @@
+KAWLA STORE
+│
+├── config.xml
+├── package.json
+│
+└── www
+    └── index.html
