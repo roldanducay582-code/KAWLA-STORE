@@ -1,0 +1,22 @@
+{
+  "name": "kawla-store",
+  "version": "1.0.0",
+  "description": "KAWLA STORE - Offline Store Manager and POS",
+  "main": "index.js",
+  "scripts": {
+    "build": "cordova build android",
+    "run": "cordova run android",
+    "prepare": "cordova prepare android",
+    "clean": "cordova clean android"
+  },
+  "author": "KAWLA STORE",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "cordova": "13.0.0",
+    "cordova-android": "^15.1.0"
+  },
+  "cordova": {
+    "platforms": []
+  }
+}
